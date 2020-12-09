@@ -16,4 +16,4 @@ Repository containing portfolio of data science projects completed by me for aca
 
 - ### Web Scraping Projects
 
-  - [Scrape Amazon Product Data and Prices](https://github.com/kh-bilal/Data-Science-Portfolio/Web-Scraping-Projects/Scrape-Amazon.ipynb): Scrape Amazon Product Data and Prices: A fast and simple way to scrape Amazon Web.
+  - [Scrape Amazon Product Data and Prices](https://github.com/kh-bilal/Data-Science-Portfolio/Web-Scraping-Projects/Scraping-Amazon.ipynb): A fast and simple way to scrape Amazon Website.
