@@ -12,4 +12,4 @@ Repository containing portfolio of data science projects completed by me for aca
   - [Deep Learning: Images classification system using CNN](https://github.com/kh-bilal/data-science-portfolio/blob/master/Images_classification_system/classification-system-using-CNN.ipynb):  In this project, I Developed an images classification system based on the Convolutional Neural Networks
 (CNN).
 
-	_Tools: Scikit-learn, PyCaret, Tensorflow, Pandas, Numpy, Seaborn, Matplotlib, 
+Tools: Scikit-learn, PyCaret, Tensorflow, Pandas, Numpy, Seaborn, Matplotlib, 
