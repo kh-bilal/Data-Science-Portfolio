@@ -17,3 +17,8 @@ Repository containing portfolio of data science projects completed by me for aca
 - ### Web Scraping Projects
   - [Scrape Amazon Product Data and Prices](https://github.com/kh-bilal/Data-Science-Portfolio/Web-Scraping-Projects/Scraping-Amazon.ipynb): A fast and simple way to scrape Amazon Website.
   - [Web scraping from Remax](https://github.com/kh-bilal/Data-Science-Portfolio/Web-Scraping-Projects/Scraping-Remax.ipynb): In this project: I Scraped all the search results from one of the main real estate websites in Montreal (where I live) and build a database with all the listings found.
+  
+  
+- ### Micro Projects: 
+
+I also dabble in all other kinds of technology. If you liked what you saw, want to have a chat with me about the portfolio, work opportunities, or collaboration, shoot an email at khomri.bilal@gmail.com
