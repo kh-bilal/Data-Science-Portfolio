@@ -14,8 +14,8 @@ Repository containing portfolio of data science projects completed by me for aca
 
    Tools: Scikit-learn, PyCaret, Tensorflow, Pandas, Numpy, Seaborn, Matplotlib.
 
-- ### Web Scraping Projects
-  - [Scrape Amazon Product Data and Prices](https://github.com/kh-bilal/Data-Science-Portfolio/Web-Scraping-Projects/Scraping-Amazon.ipynb): A fast and simple way to scrape Amazon Website.
+- ### Web Scraping Projects  
+  - [Build A Python Scrape App that Tracks Amazon Prices](https://github.com/kh-bilal/Data-Science-Portfolio/Web-Scraping-Projects/Scraping-Amazon.ipynb): A fast and simple way to scrape Amazon Website.
   - [Web scraping from Remax](https://github.com/kh-bilal/Data-Science-Portfolio/Web-Scraping-Projects/Scraping-Remax.ipynb): In this project: I Scraped all the search results from one of the main real estate websites in Montreal (where I live) and build a database with all the listings found.
   
   
