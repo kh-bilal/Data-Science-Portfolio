@@ -4,24 +4,32 @@ import shap
 import matplotlib.pyplot as plt
 from sklearn import datasets
 from sklearn.ensemble import RandomForestRegressor
-from PIL import Image
 import os
 import pickle
 
-import warnings
-warnings.filterwarnings('ignore')
+page_bg_img = '''
+<style>
+body {
+background-image: url("https://www.estidia.eu/wp-content/uploads/2018/04/Savin-NY-Website-Background-Web.jpg");
+background-size: cover;
+}
+</style>
+'''
+st.markdown(page_bg_img, unsafe_allow_html=True)
 
 st.write("""
-# Boston House Price Prediction
+# Boston House Price Prediction App
 This app predicts the **Boston House Price**!
 """)
-image = Image.open('maison1.jpg')
-st.image(image, width=None)
+link = '[Boston Housing Data and Parameters (Attributes) Descriptions](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/housing.names)'
+st.markdown(link, unsafe_allow_html=True)
+
 st.write('---')
 
 # Loads the Boston House Price Dataset
 boston = datasets.load_boston()
 X = pd.DataFrame(boston.data, columns=boston.feature_names)
+Y = pd.DataFrame(boston.target, columns=["MEDV"])
 
 # Sidebar
 # Header of Specify Input Parameters
@@ -60,28 +68,30 @@ def user_input_features():
 df = user_input_features()
 
 # Main Panel
+
 # Print specified input parameters
-st.header('Specified Input parameters in sidebar')
+st.header('Specified Input parameters')
 st.write(df)
 st.write('---')
-st.set_option('deprecation.showPyplotGlobalUse', False)
+
+# Build Regression Model
+model = RandomForestRegressor()
+model.fit(X, Y)
 
 # Apply Model to Make Prediction
-# Unpickle our model XGB so we can use it!
+# Unpickle our model RF so we can use it!
 if os.path.isfile("./model.pkl"):
-  model = pickle.load(open("./model.pkl", "rb"))
+  mod = pickle.load(open("./model.pkl", "rb"))
 else:
   raise FileNotFoundError
 
-prediction = model.predict(df)
+prediction_RF = mod.predict(df)
 
 st.write("""**Median Predicted value** of owner-occupied homes in $1000s""")
-
-st.write(prediction)
+st.write(prediction_RF)
 st.write('---')
 
 # Explaining the model's predictions using SHAP values
-# https://github.com/slundberg/shap
 explainer = shap.TreeExplainer(model)
 shap_values = explainer.shap_values(X)
 
