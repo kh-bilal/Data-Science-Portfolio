@@ -9,7 +9,7 @@ Repository containing portfolio of data science projects completed by me for aca
   - [Automated Anomaly Detection Using PyCaret](https://github.com/sajal2692/Data-Science-Portfolio/blob/master/Anomaly_Detection/Automated_Anomaly_Detection.ipynb): In this project, PyCaret’s anomaly detection module is used for identifying abnormal credit card transactions by employees of the Department of Education in the State of Delaware, US.
   - [Prediction of customer churn at a bank](https://github.com/kh-bilal/Data-Science-Portfolio/tree/main/Prediction_of_customer_churn_at_a_bank): The goal of this project is to predict the probability of a customer is likely to churn using machine learning techniques.
   - [Predicting Boston Housing Prices](https://github.com/kh-bilal/Data-Science-Portfolio/blob/master/Prediction_Boston_Housing_Prices): A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
-  - [Spam Or Ham](https://github.com/kh-bilal/Data-Science-Portfolio/blob/master/spam_ham/spam_ham.ipynb): a LR model Spam or Ham.
+  - [SMS Spam Classifier](https://github.com/kh-bilal/Data-Science-Portfolio/blob/master/SMS_Spam_Classifier): In this project, I seek to create such a spam detection system, but on sms messages. I will use a few different models and compare their performance.
   - [Deep Learning: Images classification system using CNN](https://github.com//kh-bilal/Data-Science-Portfolio/master/Images_classification_system/classification-system-using-CNN.ipynb):  In this project, I Developed an images classification system based on the Convolutional Neural Networks
 (CNN).
 
