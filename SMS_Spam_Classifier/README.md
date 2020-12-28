@@ -13,7 +13,6 @@ In this project, I seek to create such a spam detection system, but on sms messa
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
 
 ## Bug / Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/kh-bilal/Data-Science-Portfolio/issues/new) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/kh-bilal/Data-Science-Portfolio/issues/new). Please include sample queries and their corresponding results.
 
