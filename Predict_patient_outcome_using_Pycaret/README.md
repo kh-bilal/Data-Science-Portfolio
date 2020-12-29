@@ -21,4 +21,4 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://avatars0.githubusercontent.com/u/58118658?s=400&v=4" width=280>](https://avatars0.githubusercontent.com/u/58118658?s=400&v=4) [<img target="_blank" src="https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png" width=200>](https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png) [<img target="_blank" src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" width=280>](https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png)
+[<img target="_blank" src="https://avatars0.githubusercontent.com/u/58118658?s=400&v=4" width=280>](https://avatars0.githubusercontent.com/u/58118658?s=400&v=4)
