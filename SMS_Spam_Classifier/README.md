@@ -9,6 +9,7 @@
 
 ## Overview
 In this project, I seek to create such a spam detection system, but on sms messages. I will use a few different models and compare their performance.
+[SMS Spam Classifier: Comprehnsive data exploration, Evaluation and Comparison between several machine learning models.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/SMS_Spam_Classifier/SMS%20Spam%20Classifier.ipynb)
 
 The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
 
