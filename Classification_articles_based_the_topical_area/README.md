@@ -13,7 +13,8 @@
   * [Technologies Used](#technologies-used)
   
 ## Demo
-Link: [https://classification-article-bbc.herokuapp.com/](https://classification-article-bbc.herokuapp.com/) 
+Link: [https://classification-article-bbc.herokuapp.com/](https://classification-article-bbc.herokuapp.com/)
+
 [![](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Classification_articles_based_the_topical_area/App-img.png)](https://classification-article-bbc.herokuapp.com/)
 
 ## Overview
