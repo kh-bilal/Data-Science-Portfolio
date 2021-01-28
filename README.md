@@ -15,7 +15,7 @@ Repository containing portfolio of data science projects completed by me for aca
   - [Deep Learning: Images classification system using CNN](https://github.com//kh-bilal/Data-Science-Portfolio/master/Images_classification_system):  In this project, I Developed an images classification system based on the Convolutional Neural Networks
 (CNN).
 
-   Tools: Scikit-learn, PyCaret, Tensorflow, Pandas, Numpy, Seaborn, Matplotlib.
+   Tools: Scikit-learn, PyCaret, Keras, Tensorflow, Pandas, Numpy, Seaborn, Matplotlib.
 
 - ### Web Scraping Projects  
   - [Build a Scrape App that tracks Amazon Prices](https://github.com/kh-bilal/Data-Science-Portfolio/tree/main/Web_Scraping_Projects/web_scraping_from_Amazon): A fast and simple way to scrape Amazon Website.
