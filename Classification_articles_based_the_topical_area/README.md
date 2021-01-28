@@ -1,6 +1,6 @@
-# Prediction-customer-churn web app deployed on Heroku
+# Classification of articles based on the topical area- web app deployed on Heroku-
 
-![](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_of_customer_churn_at_a_bank/img.png)
+![](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Classification_articles_based_the_topical_area/BBC--Sport.png)
 
 ## Table of Content
   * [Demo](#demo)
@@ -13,23 +13,21 @@
   * [Technologies Used](#technologies-used)
   
 ## Demo
-Link: [https://prediction-customer-churn-api.herokuapp.com/](https://prediction-customer-churn-api.herokuapp.com/) 
-[![](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_of_customer_churn_at_a_bank/bank.png)](https://prediction-customer-churn-api.herokuapp.com/)
-
+Link: [https://classification-article-bbc.herokuapp.com/](https://classification-article-bbc.herokuapp.com/) 
+[![](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Classification_articles_based_the_topical_area/App-img.png)](https://classification-article-bbc.herokuapp.com/)
 
 ## Overview
-As we know, it is much more expensive to sign in a new client than keeping an existing one. It is advantageous for banks to know what leads a client towards the decision to leave the company.Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
+This App predicts the likelihood that a document belongs to a certain topical area.
 
-This App predicts the likelihood that a bank customer will unsubscribe or not. 
+To train the machine learning model, we used the BBCSport dataset. The data file contains 737 documents from the BBC Sport website corresponding to sports news articles in five topical areas.
 
-To train the machine learning model, we used the bank_churn dataset. The data file contains 13 features about 10000 clients of the bank.
+Class Labels: 5 (Athletics, Cricket, Football, Rugby, Tennis)
 
 ## Technical Aspect
 This project is divided into four parts:
-1. [Prediction of Customer Churn at a Bank: Comprehnsive data exploration, Evaluation and Comparison between several machine learning models.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_of_customer_churn_at_a_bank/prediction_of_customer_churn_at_a_bank.ipynb)
-2. [Create pickle file for the best obtained ML model.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_of_customer_churn_at_a_bank/Create_pkl.ipynb)
-3. [Building a Predict-Customer-Churn-Banc web app.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_of_customer_churn_at_a_bank/Predict-Customer-Churn-Banc.py)
-4. Hosting a Streamlit web app on Heroku.
+1. [Classification of BBCSport articles: Comprehnsive data exploration, Evaluation and Comparison between several machine learning models.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Classification_articles_based_the_topical_area/Classification_articles_based_the_topical_area.ipynb)
+2. [Building a Predict-Customer-Churn-Banc web app.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Classification_articles_based_the_topical_area/App_BBC_Sport_Streamlit/App_BBC_Sport_Streamlit.py)
+3. Hosting a Streamlit web app on Heroku.
 
 ## Installation
 The Code is written in Python 3.8.5. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
