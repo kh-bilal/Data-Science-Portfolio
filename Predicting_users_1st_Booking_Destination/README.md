@@ -1,6 +1,6 @@
-# SMS Spam Classifier
+# Airbnb: Predicting users 1st Booking Destination
 
-![](https://miro.medium.com/max/324/1*9vX9GriIxB3yRXYtoEiy8w.jpeg)
+![](https://etc-corporate.org/uploads/2019/05/Airbnb_Logo_B%C3%A9lo.svg_.png)
 
 ## Table of Content
   * [Overview](#overview)
@@ -8,10 +8,7 @@
   * [Technologies Used](#technologies-used)
 
 ## Overview
-In this project, I seek to create such a spam detection system, but on sms messages. I will use a few different models and compare their performance.
-[SMS Spam Classifier: Comprehnsive data exploration, Evaluation and Comparison between several machine learning models.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/SMS_Spam_Classifier/SMS%20Spam%20Classifier.ipynb)
-
-The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged acording being ham (legitimate) or spam.
+In this challenge, we have a list of users along with information of their activity on website such as date of account created, time when user first active on the website, the country for which user has done booking etc. We also got have some personal information about each user. Our task is to build a machine learning model which will predict which country a new user's first booking destination will be.
 
 ## Bug / Feature Request
 
