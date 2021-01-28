@@ -24,7 +24,7 @@ To train the machine learning model, we used the BBCSport dataset. The data file
 Class Labels: 5 (Athletics, Cricket, Football, Rugby, Tennis)
 
 ## Technical Aspect
-This project is divided into four parts:
+This project is divided into three parts:
 1. [Classification of BBCSport articles: Comprehnsive data exploration, Evaluation and Comparison between several machine learning models.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Classification_articles_based_the_topical_area/Classification_articles_based_the_topical_area.ipynb)
 2. [Building a Predict-Customer-Churn-Banc web app.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Classification_articles_based_the_topical_area/App_BBC_Sport_Streamlit/App_BBC_Sport_Streamlit.py)
 3. Hosting a Streamlit web app on Heroku.
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ## Run the Web App on the local machine
 Run this command in your terminal 
 ```bash
-streamlit run Predict-Customer-Churn-Banc.py
+streamlit run App_BBC_Sport_Streamlit.py
 ```
 ## Deployement on Heroku
 Follow the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
