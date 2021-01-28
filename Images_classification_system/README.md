@@ -6,8 +6,8 @@ In this notebook, we will classify small images cifar10 dataset from tensorflow 
 
 ## Table of Content
   * [Technologies Used](#technologies-used)
-  * [ANN-Tonsorflow.](#ANN-Tonsorflow.)
-  * [Image classification using CNN (CIFAR10 dataset) | Deep Learning](#Image-classification-using-CNN-(CIFAR10 dataset)-|-Deep-Learning)
+  * [ANN-Tonsorflow.](#ANN-Tonsorflow)
+  * [Image classification using CNN (CIFAR10 dataset) | Deep Learning](#Image-classification-using-CNN-(CIFAR10-dataset)-|-Deep-Learning)
   * [Technologies Used](#technologies-used)
 
 ## Bug / Feature Request
