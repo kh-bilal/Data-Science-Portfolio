@@ -8,13 +8,13 @@
   * [Technologies Used](#technologies-used)
 
 ## Overview
-In this project, we will analyze and visualize the data by identifying the features' importance with the strongest statistical associations to residential electricity usage (KWH), then we will apply the data processing and feature selection if necessary. At the end, we will predict customers' electricity consumption using supervised machine learning techniques.
+In this project, we will analyze and visualize the data by identifying the features' importance with the strongest statistical associations to residential electricity usage (KWH), then we will apply the data processing and feature selection. At the end, we will predict customers' electricity consumption using supervised machine learning techniques.
 
-The project is divided into three notebooks: 
+## The project is divided into three notebooks: 
 
-In the first Notebook, [I worked on the Exploratory Data Analysis (EDA).](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_Electric_Consumption/1%20-%20EDA%20-%20Exploratory%20data%20analysis.ipynb)
-In the 2nd Notebook, [I worked on the Data preprocessing and Feature Selection.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_Electric_Consumption/2%20-%20Data%20processing%20and%20Feature%20selection.ipynb)
-In the 3rd Notebook, [I worked on the development of ML models.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_Electric_Consumption/3%20-%20Development%2C%20and%20Evaluation%20%20of%20ML%20models.ipynb)
+* In the first Notebook, [I worked on the Exploratory Data Analysis (EDA).](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_Electric_Consumption/1%20-%20EDA%20-%20Exploratory%20data%20analysis.ipynb)
+* In the 2nd Notebook, [I worked on the Data preprocessing and Feature Selection.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_Electric_Consumption/2%20-%20Data%20processing%20and%20Feature%20selection.ipynb)
+* In the 3rd Notebook, [I worked on the development of ML models.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_Electric_Consumption/3%20-%20Development%2C%20and%20Evaluation%20%20of%20ML%20models.ipynb)
 
 The RESIDENTIAL ENERGY CONSUMPTION SURVEY (RECS) Dataset is loctaed here: https://www.eia.gov/consumption/residential/data/2009/index.php?view=microdata 
 
