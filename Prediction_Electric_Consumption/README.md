@@ -10,7 +10,7 @@
 ## Overview
 In this project, we will analyze and visualize the data by identifying the features' importance with the strongest statistical associations to residential electricity usage (KWH), then we will apply the data processing and feature selection. At the end, we will predict customers' electricity consumption using supervised machine learning techniques.
 
-## The project is divided into three notebooks: 
+### The project is divided into three notebooks: 
 
 * In the first Notebook, [I worked on the Exploratory Data Analysis (EDA).](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_Electric_Consumption/1%20-%20EDA%20-%20Exploratory%20data%20analysis.ipynb)
 * In the 2nd Notebook, [I worked on the Data preprocessing and Feature Selection.](https://github.com/kh-bilal/Data-Science-Portfolio/blob/main/Prediction_Electric_Consumption/2%20-%20Data%20processing%20and%20Feature%20selection.ipynb)
