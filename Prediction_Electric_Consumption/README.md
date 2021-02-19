@@ -1,6 +1,6 @@
 # Prediction of electricity consumption (KWH)
 
-![](https://electricityplans.com/wp-content/uploads/2017/04/kWh-Kilowatt-hour-definition-meaning.jpg)
+![](https://gosolargroup.com/wp-content/uploads/2017/04/What_Is_the_Average_Energy_Usage-01-e1498511460955.jpg)
 
 ## Table of Content
   * [Overview](#overview)
